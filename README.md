@@ -1,4 +1,4 @@
-🖐Hi, I'm an aspiring frontend developer, currently a college student. Looking to improve myself every single day 😤
+🖐Hi, I'm an aspiring nodejs developer, currently a college student. Looking to improve myself every single day 😤
 
 </br>
 
